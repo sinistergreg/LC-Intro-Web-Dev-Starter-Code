@@ -5,7 +5,6 @@ a) If passed a number, return the tripled value.
 b) If passed a string, return the string “ARRR!”
 c) Be sure to test your function before moving on the next part. */
 
-
 let tripledValue = function (n){
   if (typeof(n) === "number"){
   return n*3
