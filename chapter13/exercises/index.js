@@ -21,7 +21,7 @@ for (let i = 0; i<prompts.length; i++){
         printAll(astronauts, testTitles, scores);
     } else if (i===1){
       for (let j = 0; j<testTitles.length; j++){
-        let avg = let avg = averages.averageForTest(j, scores);
+        let avg = averages.averageForTest(j, scores);
         console.log(`${testTitles[j]} test average = ${avg}%.`);
       }
     } else if (i===2){
