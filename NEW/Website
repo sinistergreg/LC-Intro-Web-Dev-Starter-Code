@@ -1,0 +1,41 @@
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <title>HTML Exercise</title>
+      <link href="style.css" rel="stylesheet" type="text/css" />
+      <!-- DON'T TOUCH ANYTHING ABOVE THIS LINE -->
+    </head>
+    <body>
+      <!-- h1 goes here --> 
+<h1>Why I Love Web Development</h1>
+      <!-- ol goes here -->
+      <ol>
+  <li>It's fun</li>
+  <li>It's exciting</li>
+  <li>It's revolutionary</li>
+</ol>
+      <!-- a goes here -->
+      <a href="https://www.webelements.com/" target="_blank">WebElements</a>
+      
+      <!-- p goes here -->
+    </body
+      
+          <!-- h1 goes here --->
+    <h1>Why I Love Web Development</h1>
+    
+      <!-- ol goes here --->
+        <ol>
+  <li>It's fun</li>
+  <li>It's exciting</li>
+  <li>It's revolutionary</li>
+</ol>
+    
+      <!-- a goes here --->
+    
+        <a href="https://www.webelements.com/" target="_blank">WebElements</a>
+    
+      <!-- p goes here --->
+    >
+  </html>
